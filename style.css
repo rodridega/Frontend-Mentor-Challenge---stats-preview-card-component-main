@@ -28,9 +28,10 @@ body{
     justify-content: center;
     align-items: center;
     color: white;
+    max-width: 1440px;
 }
 .card{
-    width: 1000px;
+    width: 100%;
     height: 400px;
     background-color: hsl(277, 64%, 35%);
     display: flex;

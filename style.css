@@ -29,6 +29,7 @@ body{
     align-items: center;
     color: white;
     max-width: 1440px;
+    width: 1000px;
 }
 .card{
     width: 100%;
